@@ -58,7 +58,7 @@ $('document').ready(() => {
                         <a onclick="movieSelected('${movie.imdbID}')" class="btn btn-primary" href="#">Movie Details</a>
                         </div>
                     </div>
-                    <br><br><hr>
+                    <br/><br/><hr>
                 `;
             });
         
